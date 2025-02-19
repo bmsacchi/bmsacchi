@@ -9,7 +9,7 @@ My name is Bianca Sacchi, I am a PhD candidate in the Wright lab at U of T EEB.
 ### PhD projects
 
 #### Project 1
-[Y chromosome degeneration in **Rumex hastatulus** (XYY cytotype), a plant with very young sex chromosomes](https://github.com/SIWLab/XYYmaleGenome)
+[Y chromosome degeneration in __Rumex hastatulus__ (XYY cytotype), a plant with very young sex chromosomes](https://github.com/SIWLab/XYYmaleGenome)
 
 - Extensive rearrangement and ~30% Y gene loss in a <10 MYA sex chromosome
 - Presenting a complete, haplotype-level assembly of a species with two Y chromosomes
