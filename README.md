@@ -1,6 +1,6 @@
 ### Howdy! 🤠
 
-My name is Bianca Sacchi, I am a PhD candidate in the Wright lab at U of T EEB.
+My name is Bianca Sacchi, I recently completed my PhD in the Wright lab at U of T EEB.
 - 🌱 My current research focus is Y chromosome degeneration and silencing in plants with very young sex chromosomes 
 - 🧬 I love working with non-model genomes, learning new coding and bioinformatics skills, and diving into data (from frustrating data wrangling to genome visualization)
 - 💻 These days I'm working on my remaining thesis projects and learning about industry and government research careers
