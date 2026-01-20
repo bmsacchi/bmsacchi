@@ -3,7 +3,7 @@
 My name is Bianca Sacchi, I recently completed my PhD in the Wright lab at U of T EEB.
 - 🌱 My PhD research focus was on Y chromosome degeneration and silencing in plants with very young sex chromosomes 
 - 🧬 I love working with complex genomes, learning new coding and bioinformatics skills, and diving into data (from frustrating data wrangling to genome visualization)
-- 💻 I'm currently looking for work! Primarily interested in roles relating to bioinformatics, genomics, or biological data analysis. Also very interested in Field Applications Scientist or Customer Success-related roles with a technical/bioinformatics angle! [LinkedIn](https://www.linkedin.com/in/bianca-sacchi/)
+- 💻 I'm currently looking for work! Primarily interested in roles relating to bioinformatics, genomics, or biological data analysis. 
 - 🤠 When I'm not troubleshooting code or reading papers you can find me bird watching 🦆, rock climbing 🧗‍♀️, or hanging out with my cat Edgar 🐈
 
 ### PhD projects
