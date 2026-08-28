@@ -3,7 +3,7 @@
 My name is Bianca Sacchi, I'm a genomics researcher and evolutionary biologist based in Toronto. In January 2026 I started a postdoc position at Public Health Ontario, where I'll be diving into some exciting new topics (e.g. viral phylodynamics and applied machine learning). In August 2025 completed my PhD in the Wright lab at U of T EEB. My PhD research focus was on Y chromosome degeneration and silencing in plants with very young sex chromosomes and very big genomes. I did my BSc in molecular genetics at the University of Alberta, where I worked on pine tree genetics and pest resistance research. 
 
 ### Current projects
-Coming soon...
+Phylodynamics of Respiratory Syncytial Virus in Ontario
 
 ### PhD projects
 
